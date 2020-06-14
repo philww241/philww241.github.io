@@ -11,6 +11,7 @@ But there's a lot more to the concept. The following articles outline various as
 
 + [Frictionless enterprise as a platform - avoiding Uberization](https://diginomica.com/frictionless-enterprise-as-a-platform-avoiding-uberization) - 3 May 2016
 + [Frictionless enterprise: the goal of digital transformation](https://diginomica.com/frictionless-enterprise-the-goal-of-digital-transformation) - 1 Jan 2016
++ [Seven steps on the path to a frictionless future](https://diginomica.com/seven-steps-on-the-path-to-a-frictionless-future) - 7 Jul 2015
 + [Frictionless enterprise: the digitally connected future of business](https://diginomica.com/frictionless-enterprise-digital-future-business) - 3 Jan 2014
 + [From fixed to frictionless enterprise](https://www.zdnet.com/article/from-fixed-to-frictionless-enterprise/) - 27 Oct 2011
 
