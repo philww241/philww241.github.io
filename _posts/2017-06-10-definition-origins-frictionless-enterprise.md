@@ -3,7 +3,7 @@ title: "Definition and origins of Frictionless Enterprise"
 date: 2017-06-10
 ---
 
-Here is a definition of Frictionless Enterprise first published in May 2016: 
+Here is a definition of Frictionless Enterprise first published in May 2016<!--more-->: 
 
 > Frictionless enterprise is a business architecture that optimizes the use of connected digital technologies to strip out cost, delay and opacity when harnessing resources and delivering outcomes. Simply put, it erases the barriers that get in the way of getting things done.
 
