@@ -8,9 +8,10 @@ description: A blueprint for digitally connected business - by Phil Wainewright
 paginate: 5
 paginate_path: "blog/page:num"
 
-# social links
+# identity settings
 twitter_username: philww # DO NOT include the @ character, or else the build will fail!
 github_username:  philww241 # DO NOT include the @ character, or else the build will fail!
+google_analytics: UA-169369903-1
 
 defaults:
   -
