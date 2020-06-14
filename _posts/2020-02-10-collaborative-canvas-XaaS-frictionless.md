@@ -1,6 +1,6 @@
 ---
 title: "Collaborative canvas, XaaS and Frictionless Enterprise"
-date: 2020-06-10
+date: 2020-02-10
 ---
 
 Two important sub-themes form an integral part of Frictionless Enterprise<!--more-->: 
